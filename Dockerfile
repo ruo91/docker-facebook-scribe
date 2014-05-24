@@ -1,5 +1,5 @@
 #
-# Dockerfile - Apache hadoop
+# Dockerfile - Facebook Scribe
 #
 FROM     ubuntu:12.04
 MAINTAINER Yongbok Kim <ruo91@yongbok.net>
